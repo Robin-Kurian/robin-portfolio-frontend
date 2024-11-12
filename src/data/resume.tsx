@@ -195,7 +195,7 @@ export const DATA = {
         },
         {
           type: "Source",
-          href: "https://github.com/Evrz-Developers/babyparadise",
+          href: "https://github.com/Evrz-Developers/baby_paradise_frontend",
           icon: <Icons.github className="size-3" />,
         },
       ],
