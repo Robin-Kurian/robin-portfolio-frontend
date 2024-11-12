@@ -7,9 +7,9 @@ export const DATA = {
   url: "https://robink.netlify.app",
   location: "Bengluru, India",
   locationLink: "https://www.google.com/maps/place/bengaluru",
-  description: `👨‍💻SDE at @Mobiux-Labs, exploring the world of app & web development. 💡I love building things and helping people. 🤝 Love collaborating with like-minded developers.`,
+  description: `👨‍💻SDE at @Mobiux-Labs, exploring the world of s/w development. 💡Let's collaborate and give life to your ideas.`,
   summary:
-    "🌟 Passionate Full stack developer with over 3 years of experience in building user-focused applications that enhance engagement and streamline processes.\n\n 🛠️ Skilled in developing feature-rich web and mobile applications with a focus on performance and usability. Experienced with Next.js, Django, Flutter, and a variety of other technologies across diverse projects. \n\n🎓 Pursued a degree in Computer Applications, alongside internships at two tech companies in Kochi, which provided valuable hands-on experience and shaped my approach to development",
+    "🌟 Dedicated full stack developer with over 3 years of experience in building user-centered apps.\n\n 🛠️ Skilled in developing web and mobile applications with a focus on performance and usability. Experienced with Next.js, Django, Flutter, and a variety of other technologies across diverse projects. \n\n🎓 In the past, I pursued a degree in Computer Applications, alongside internships at two tech companies in Kochi as first step towards my career in web and mobile app development.",
   avatarUrl: "/dev.png",
   skills: [
     "NextJs",
