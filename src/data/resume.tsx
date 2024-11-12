@@ -159,16 +159,16 @@ export const DATA = {
         "An Android app developed using Flutter for a friend's new venture, a kids' store, enhancing their online presence and shopping experience, with Firebase as the backend.",
       technologies: ["Flutter", "Dart", "Firebase"],
       links: [
-       
         {
           type: "Source",
-          href: "https://github.com/magicuidesign/magicui",
+          href: "https://github.com/Evrz-Developers/babyparadise",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image:"",
+      gif: "https://giphy.com/embed/QAVfJ35dd0GT5v1mCZ",
       video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+        "",
     },
     {
       title: "Baby Paradise - E-com Website",
@@ -200,7 +200,8 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "https://cdn.magicui.design/bento-grid.mp4",
+      gif:"https://giphy.com/embed/Jr1vEJnV1DuJaY9k0P",
+      video: "",
     },
   ],
   hackathons: [

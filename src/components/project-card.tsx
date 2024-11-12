@@ -19,6 +19,7 @@ interface Props {
   tags: readonly string[];
   link?: string;
   image?: string;
+  gif?:string;
   video?: string;
   links?: readonly {
     icon: React.ReactNode;
@@ -36,6 +37,7 @@ export function ProjectCard({
   tags,
   link,
   image,
+  gif,
   video,
   links,
   className,
@@ -68,6 +70,19 @@ export function ProjectCard({
             height={300}
             className="h-40 w-full overflow-hidden object-cover object-top"
           />
+        )}
+        {gif && (
+          <div style={{ width: '100%', height: '160px', position: 'relative' }}>
+            <iframe
+              src={gif}
+              width="100%"
+              height="100%"
+              style={{ position: 'absolute', pointerEvents: 'none' }}
+              frameBorder="0"
+              className="giphy-embed"
+              allowFullScreen
+            />
+          </div>
         )}
       </Link>
       <CardHeader className="px-2">
