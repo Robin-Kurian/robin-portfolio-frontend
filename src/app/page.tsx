@@ -7,7 +7,7 @@ export default function Home() {
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
         <Image
           className="dark:invert"
-          src="/icons/portfolio.svg"
+          src="/icons/robin.svg"
           alt="Portfolio logo"
           width={180}
           height={38}
@@ -15,7 +15,7 @@ export default function Home() {
         />
         <ul className="list-inside list-disc text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">
-            Developer just started working on this website.
+            I just started working on this website.
           </li>
           <li className="mb-2">
             A portfolio website that showcases my projects and skills.
