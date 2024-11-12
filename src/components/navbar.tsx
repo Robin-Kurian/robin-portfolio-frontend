@@ -38,6 +38,7 @@ export default function Navbar() {
         ))}
         <Separator orientation="vertical" className="h-full" />
         {Object.entries(DATA.contact.social)
+          // eslint-disable-next-line @typescript-eslint/no-unused-vars
           .filter(([_, social]) => social.navbar)
           .map(([name, social]) => (
             <DockIcon key={name}>
