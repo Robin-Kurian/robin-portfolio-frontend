@@ -159,11 +159,7 @@ export const DATA = {
         "With the release of the [OpenAI GPT Store](https://openai.com/blog/introducing-the-gpt-store), I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
       technologies: ["Flutter", "Dart", "Firebase"],
       links: [
-        {
-          type: "Website",
-          href: "https://chatcollect.com",
-          icon: <Icons.globe className="size-3" />,
-        },
+       
         {
           type: "Source",
           href: "https://github.com/magicuidesign/magicui",
