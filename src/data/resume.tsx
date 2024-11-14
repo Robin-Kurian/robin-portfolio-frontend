@@ -171,7 +171,7 @@ export const DATA = {
     },
     {
       title: "Baby Paradise - E-com Website",
-      href: "https://marginpoint.netlify.app",
+      href: "https://babyparadisestore.netlify.app",
       dates: "Jan 2024 - Feb 2024",
       active: true,
       description:
@@ -189,7 +189,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://marginpoint.netlify.app",
+          href: "https://babyparadisestore.netlify.app",
           icon: <Icons.globe className="size-3" />,
         },
         {
