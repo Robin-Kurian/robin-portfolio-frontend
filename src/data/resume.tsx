@@ -202,6 +202,30 @@ export const DATA = {
       gif: "https://giphy.com/embed/Jr1vEJnV1DuJaY9k0P",
       video: "",
     },
+    {
+      title: "Image Viewer - Browser Extension",
+      href: "https://microsoftedge.microsoft.com/addons/detail/image-viewer/aallahhhkahedbejllfgdmldhocdcngk",
+      dates: "Sep 2024",
+      active: true,
+      description:
+        "A Browser extension to preview images(SVG, PNG, JPG) with an additional feature of pasting svg code and viewing it, which is a useful tool for web developers. Deployed on Microsoft Edge Addons .",
+      technologies: ["Html", "Css", "Javascript", "Json"],
+      links: [
+        {
+          type: "Website",
+          href: "https://microsoftedge.microsoft.com/addons/detail/image-viewer/aallahhhkahedbejllfgdmldhocdcngk",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Evrz-Developers/image-viewer-extension",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/image_viewer_extension.png",
+      gif: "",
+      video: "",
+    },
   ],
   hackathons: [
     {
