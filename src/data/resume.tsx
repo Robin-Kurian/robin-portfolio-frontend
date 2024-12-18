@@ -226,6 +226,36 @@ export const DATA = {
       gif: "",
       video: "",
     },
+    {
+      title: "EVRZ Dashboard",
+      href: "https://evrz-dashboard.vercel.app",
+      dates: "Sep 2024",
+      active: true,
+      description:
+        "A dashboard demo for EVRZ to manage Invoices(Create, Read, Update, Delete) and Customers(Coming Soon). Deployed on Vercel.",
+      technologies: [
+        "Next.js",
+        "Typescript",
+        "Postgres",
+        "TailwindCSS",
+        "Shadcn UI",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://evrz-dashboard.vercel.app",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Robin-Kurian/nextjs-dashboard",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+      gif: "https://giphy.com/embed/EyqAY5E3IcwAD3lB3y",
+      video: "",
+    },
   ],
   hackathons: [
     {
