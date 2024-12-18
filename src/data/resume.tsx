@@ -177,14 +177,14 @@ export const DATA = {
       description:
         "A website using Next.js and Django for the same store, hosted both the app and website for no cost on PythonAnywhere and Netlify.",
       technologies: [
-        "Next.js",
-        "Typescript",
+        "Next.js 15",
+        "ReactJs 18",
+        "Firebase",
         "PostgreSQL",
-        "Prisma",
         "TailwindCSS",
-        "Stripe",
+        "React Icons",
         "Shadcn UI",
-        "Magic UI",
+        "NextUI",
       ],
       links: [
         {
@@ -229,16 +229,18 @@ export const DATA = {
     {
       title: "EVRZ Dashboard",
       href: "https://evrz-dashboard.vercel.app",
-      dates: "Sep 2024",
+      dates: "Dec 2024",
       active: true,
       description:
         "A dashboard demo for EVRZ to manage Invoices(Create, Read, Update, Delete) and Customers(Coming Soon). Deployed on Vercel.",
       technologies: [
-        "Next.js",
+        "Next.js 15",
+        "ReactJs 18",
         "Typescript",
-        "Postgres",
+        "PostgreSQL",
         "TailwindCSS",
-        "Shadcn UI",
+        "Hero Icons",
+        "Zod",
       ],
       links: [
         {
